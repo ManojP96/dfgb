@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    admin:
+      email: geethu4444@gmail.com
+      name: Geetakrishna
+      password: $2b$12$qL9OflpPZ.9DR61vYP9QyuRdZUJBU3XqHqk1EsdbXtV8jGJD.2BXC
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - geethu4444@gmail.com
